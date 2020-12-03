@@ -1,7 +1,6 @@
 <html>
 <head>
     <br>
-    <title>An Introduction To Corps Python</title>
 </head>
 
 <body>
